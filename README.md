@@ -27,7 +27,8 @@ O processo de criar este clone também me ajudou a entender como estruturar list
 
 ## 📷 Preview
 
-*(Adicione aqui imagens ou GIFs do aplicativo rodando, se desejar)*
+![image](https://github.com/user-attachments/assets/8660390b-0b33-4fa3-b18a-ce15b0044171)
+
 
 ## 🤝 Contribuições
 
