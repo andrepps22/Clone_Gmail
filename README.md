@@ -34,5 +34,3 @@ O processo de criar este clone também me ajudou a entender como estruturar list
 Sinta-se à vontade para abrir issues, sugerir melhorias ou enviar pull requests!
 
 ---
-
-Feito com ❤️ utilizando Flutter.
